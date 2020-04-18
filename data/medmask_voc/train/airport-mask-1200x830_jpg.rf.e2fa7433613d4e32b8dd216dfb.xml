@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>airport-mask-1200x830_jpg.rf.e2fa7433613d4e32b8dd216dfbfdfd35.jpg</filename>
-	<path>airport-mask-1200x830_jpg.rf.e2fa7433613d4e32b8dd216dfbfdfd35.jpg</path>
+	<folder />
+	<filename>airport-mask-1200x830_jpg.rf.e2fa7433613d4e32b8dd216dfb.jpg</filename>
+	<path>airport-mask-1200x830_jpg.rf.e2fa7433613d4e32b8dd216dfb.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

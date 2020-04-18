@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>air-pollution-delhi_2045672_835x547-m_jpg.rf.97eb42d4cf58e185f2888f61195236f7.jpg</filename>
-	<path>air-pollution-delhi_2045672_835x547-m_jpg.rf.97eb42d4cf58e185f2888f61195236f7.jpg</path>
+	<folder />
+	<filename>air-pollution-delhi_2045672_835x547-m_jpg.rf.97eb42d4cf.jpg</filename>
+	<path>air-pollution-delhi_2045672_835x547-m_jpg.rf.97eb42d4cf.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

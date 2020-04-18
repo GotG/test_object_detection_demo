@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>22-pollution-2706961_1280-5e2867be94204-1024x683_jpg.rf.dc4d16a9ce8b0c6f67e809a2f902e301.jpg</filename>
-	<path>22-pollution-2706961_1280-5e2867be94204-1024x683_jpg.rf.dc4d16a9ce8b0c6f67e809a2f902e301.jpg</path>
+	<folder />
+	<filename>22-pollution-2706961_1280-5e2867be94204-1024x683_jpg.rf.jpg</filename>
+	<path>22-pollution-2706961_1280-5e2867be94204-1024x683_jpg.rf.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

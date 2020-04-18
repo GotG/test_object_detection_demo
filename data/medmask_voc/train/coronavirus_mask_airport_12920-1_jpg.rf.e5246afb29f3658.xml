@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>coronavirus_mask_airport_12920-1_jpg.rf.e5246afb29f36587e928c8595063a619.jpg</filename>
-	<path>coronavirus_mask_airport_12920-1_jpg.rf.e5246afb29f36587e928c8595063a619.jpg</path>
+	<folder />
+	<filename>coronavirus_mask_airport_12920-1_jpg.rf.e5246afb29f3658.jpg</filename>
+	<path>coronavirus_mask_airport_12920-1_jpg.rf.e5246afb29f3658.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

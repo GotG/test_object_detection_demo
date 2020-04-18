@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>coronavirus-en-chine_jpg.rf.26c5850142a87ab01dffffc91eb8207a.jpg</filename>
-	<path>coronavirus-en-chine_jpg.rf.26c5850142a87ab01dffffc91eb8207a.jpg</path>
+	<folder />
+	<filename>coronavirus-en-chine_jpg.rf.26c5850142a87ab01dffffc91eb.jpg</filename>
+	<path>coronavirus-en-chine_jpg.rf.26c5850142a87ab01dffffc91eb.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

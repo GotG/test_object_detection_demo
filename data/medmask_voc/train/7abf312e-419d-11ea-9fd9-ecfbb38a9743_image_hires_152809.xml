@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809_jpg.rf.1f661b3faf8f1c7ada521565ce966aa6.jpg</filename>
-	<path>7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809_jpg.rf.1f661b3faf8f1c7ada521565ce966aa6.jpg</path>
+	<folder />
+	<filename>7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809.jpg</filename>
+	<path>7abf312e-419d-11ea-9fd9-ecfbb38a9743_image_hires_152809.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>

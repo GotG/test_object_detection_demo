@@ -1,7 +1,7 @@
 <annotation>
-	<folder></folder>
-	<filename>AP_20039189423521_jpg.rf.94124207fb52885e428b8f65de2101bb.jpg</filename>
-	<path>AP_20039189423521_jpg.rf.94124207fb52885e428b8f65de2101bb.jpg</path>
+	<folder />
+	<filename>AP_20039189423521_jpg.rf.94124207fb52885e428b8f65de2101.jpg</filename>
+	<path>AP_20039189423521_jpg.rf.94124207fb52885e428b8f65de2101.jpg</path>
 	<source>
 		<database>roboflow.ai</database>
 	</source>
