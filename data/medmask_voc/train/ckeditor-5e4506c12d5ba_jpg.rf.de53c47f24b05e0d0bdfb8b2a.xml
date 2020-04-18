@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>ckeditor-5e4506c12d5ba_jpg.rf.de53c47f24b05e0d0bdfb8b2a2162f2e.jpg</filename>
+	<path>ckeditor-5e4506c12d5ba_jpg.rf.de53c47f24b05e0d0bdfb8b2a2162f2e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>355</xmin>
+			<xmax>443</xmax>
+			<ymin>56</ymin>
+			<ymax>109</ymax>
+		</bndbox>
+	</object>
+</annotation>

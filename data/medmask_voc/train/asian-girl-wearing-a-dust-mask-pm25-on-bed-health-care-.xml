@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK_jpg.rf.06a3109a86fb6314805655a8f8d485d9.jpg</filename>
+	<path>asian-girl-wearing-a-dust-mask-pm25-on-bed-health-care-concept-T6BBWK_jpg.rf.06a3109a86fb6314805655a8f8d485d9.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>487</xmin>
+			<xmax>695</xmax>
+			<ymin>144</ymin>
+			<ymax>380</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>coronavirus-contagios-china_jpg.rf.5193da41a17e8b6559e1cbddfe6adaf4.jpg</filename>
+	<path>coronavirus-contagios-china_jpg.rf.5193da41a17e8b6559e1cbddfe6adaf4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

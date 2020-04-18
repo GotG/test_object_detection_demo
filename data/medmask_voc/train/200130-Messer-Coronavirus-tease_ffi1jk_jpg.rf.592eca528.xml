@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>200130-Messer-Coronavirus-tease_ffi1jk_jpg.rf.592eca52885462820ed84602eaaaa74a.jpg</filename>
+	<path>200130-Messer-Coronavirus-tease_ffi1jk_jpg.rf.592eca52885462820ed84602eaaaa74a.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

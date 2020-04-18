@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>200124-coronavirus-surgical-masks_jpg.rf.8d9f2cbb0d1dc9f93bd5e03b808262a7.jpg</filename>
+	<path>200124-coronavirus-surgical-masks_jpg.rf.8d9f2cbb0d1dc9f93bd5e03b808262a7.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>359</xmin>
+			<xmax>432</xmax>
+			<ymin>207</ymin>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>

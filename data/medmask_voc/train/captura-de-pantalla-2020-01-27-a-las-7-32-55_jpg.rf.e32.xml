@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>captura-de-pantalla-2020-01-27-a-las-7-32-55_jpg.rf.e327132543e0c0e68ed0259473565156.jpg</filename>
+	<path>captura-de-pantalla-2020-01-27-a-las-7-32-55_jpg.rf.e327132543e0c0e68ed0259473565156.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

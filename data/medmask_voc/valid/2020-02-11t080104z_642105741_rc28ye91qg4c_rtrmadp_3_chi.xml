@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>2020-02-11t080104z_642105741_rc28ye91qg4c_rtrmadp_3_china-health_jpg.rf.66f770ac17b8af8059ac54a41839863b.jpg</filename>
+	<path>2020-02-11t080104z_642105741_rc28ye91qg4c_rtrmadp_3_china-health_jpg.rf.66f770ac17b8af8059ac54a41839863b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

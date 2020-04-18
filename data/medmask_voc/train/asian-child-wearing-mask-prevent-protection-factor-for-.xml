@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83_jpg.rf.90ed08367452523d1695e5e030ed54b3.jpg</filename>
+	<path>asian-child-wearing-mask-prevent-protection-factor-for-n95-filtering-face-mask-safty-white-mask-T5WP83_jpg.rf.90ed08367452523d1695e5e030ed54b3.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>346</xmin>
+			<xmax>591</xmax>
+			<ymin>179</ymin>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

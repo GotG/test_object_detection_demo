@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>61tNVFFvHzL__SL1100__jpg.rf.3ce8957d9daf397d1599bbb1fee393fc.jpg</filename>
+	<path>61tNVFFvHzL__SL1100__jpg.rf.3ce8957d9daf397d1599bbb1fee393fc.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>good</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>553</xmax>
+			<ymin>188</ymin>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+</annotation>

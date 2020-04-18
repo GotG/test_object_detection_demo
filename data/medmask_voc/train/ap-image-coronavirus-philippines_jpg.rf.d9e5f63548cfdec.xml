@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ap-image-coronavirus-philippines_jpg.rf.d9e5f63548cfdec95267a0248976a89e.jpg</filename>
+	<path>ap-image-coronavirus-philippines_jpg.rf.d9e5f63548cfdec95267a0248976a89e.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
