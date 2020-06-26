@@ -12,30 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>377</xmin>
-			<ymin>367</ymin>
-			<xmax>470</xmax>
-			<ymax>459</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>758</xmin>
-			<ymin>420</ymin>
-			<xmax>842</xmax>
-			<ymax>503</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>bad</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

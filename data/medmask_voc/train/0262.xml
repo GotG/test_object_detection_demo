@@ -35,16 +35,4 @@
 			<ymax>560</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>817</xmin>
-			<ymin>3</ymin>
-			<xmax>1094</xmax>
-			<ymax>250</ymax>
-		</bndbox>
-	</object>
 </annotation>

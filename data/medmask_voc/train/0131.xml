@@ -12,18 +12,6 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>329</xmin>
-			<ymin>172</ymin>
-			<xmax>439</xmax>
-			<ymax>300</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>good</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>

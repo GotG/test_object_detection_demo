@@ -95,16 +95,4 @@
 			<ymax>213</ymax>
 		</bndbox>
 	</object>
-	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1090</xmin>
-			<ymin>250</ymin>
-			<xmax>1196</xmax>
-			<ymax>362</ymax>
-		</bndbox>
-	</object>
 </annotation>

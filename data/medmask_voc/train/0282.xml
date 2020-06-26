@@ -60,18 +60,6 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>none</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>972</xmin>
-			<ymin>271</ymin>
-			<xmax>1039</xmax>
-			<ymax>356</ymax>
-		</bndbox>
-	</object>
-	<object>
 		<name>bad</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
